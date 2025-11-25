@@ -80,7 +80,7 @@ Aplikasi menggunakan 3 tabel utama:
 
 ## 🛠 Teknologi yang Digunakan
 
-- **Java 8+ / 11**
+- **Java 17**
 - **Java Swing GUI**
 - **Maven**
 - **JPA (EclipseLink)**
